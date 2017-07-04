@@ -1,0 +1,20 @@
+Flume Command:
+==============
+bin/flume-ng agent -n agent1 -f conf/filecopy.conf
+
+
+
+
+
+SQOOP
+======
+
+sqoop export --connect jdbc:mysql://localhost/assignment --username root --password acadgild --table district80 --export-dir /user/acadgild/district
+
+
+
+
+
+sqoop export --connect jdbc:mysql://localhost/assignment --username root --password acadgild --table district100 --export-dir /user/acadgild/dist																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								
+
+
